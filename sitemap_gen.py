@@ -197,7 +197,8 @@ NOTIFICATION_SITES = [
   ('http', 'www.google.com', 'webmasters/sitemaps/ping', {}, '', 'sitemap'),
   ('http', 'search.yahooapis.com', 'SiteExplorerService/V1/ping', {},
     '', 'sitemap'), 
-  ('http', 'submissions.ask.com', 'ping', {}, '', 'sitemap'), 
+  ('http', 'submissions.ask.com', 'ping',      {}, '', 'sitemap'), 
+  ('http', 'webmaster.live.com',  'ping.aspx', {}, '', 'siteMap'),
   ]
 
 
