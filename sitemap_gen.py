@@ -195,6 +195,9 @@ NEWS_TAG_XML_SUFFIX	= '  </news:news>\n'
 # Clear as mud, I know.
 NOTIFICATION_SITES = [
   ('http', 'www.google.com', 'webmasters/sitemaps/ping', {}, '', 'sitemap'),
+  ('http', 'search.yahooapis.com', 'SiteExplorerService/V1/ping', {},
+    '', 'sitemap'), 
+  ('http', 'submissions.ask.com', 'ping', {}, '', 'sitemap'), 
   ]
 
 
