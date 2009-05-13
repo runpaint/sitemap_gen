@@ -82,4 +82,10 @@ Wed Jul 18 01:00:00 2007  Google Inc. <opensource@google.com>
 
 	  [SMALL]
 	  Added messaging for file permission issues.
-	  
+
+Tue May 12 14:15:13 2009 Run Paint Run Run <runrun@runpaint.org>
+
+	* sitemap_gen.py: v.1.6
+
+	[SMALL]
+	Ping Yahoo!, Ask, and MSN Live as well as Google.
